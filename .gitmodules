@@ -1,0 +1,4 @@
+[submodule "subdirectory"]
+	path = subdirectory
+	url = https://github.com/nikhil28cs52/subdirectory.git
+	ignore = dirty
